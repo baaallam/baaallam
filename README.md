@@ -1,5 +1,5 @@
 # 💫 About Me:
-founder of @GetDigitalx <br>software engineer student at 1337 <br>cybersecurity student at FSR
+_founder of @GetDigitalx_ <br>_software engineer student at 1337_ <br>_cybersecurity student at FSR_
 
 
 ## 🌐 Socials:
